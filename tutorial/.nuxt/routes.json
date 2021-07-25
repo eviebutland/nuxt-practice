@@ -1,0 +1,32 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/eviebutland/Desktop/practice-app/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "jokes",
+    "path": "/jokes",
+    "component": "/Users/eviebutland/Desktop/practice-app/pages/jokes/index.vue",
+    "chunkName": "pages/jokes/index"
+  },
+  {
+    "name": "todos",
+    "path": "/todos",
+    "component": "/Users/eviebutland/Desktop/practice-app/pages/todos.vue",
+    "chunkName": "pages/todos"
+  },
+  {
+    "name": "jokes-id",
+    "path": "/jokes/:id",
+    "component": "/Users/eviebutland/Desktop/practice-app/pages/jokes/_id/index.vue",
+    "chunkName": "pages/jokes/_id/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/eviebutland/Desktop/practice-app/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

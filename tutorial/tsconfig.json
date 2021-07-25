@@ -29,8 +29,8 @@
     ]
   },
   "exclude": [
-    "node_modules",
-    ".nuxt",
+    "tutorial/node_modules",
+    "tutorial/.nuxt",
     "dist"
   ]
 }

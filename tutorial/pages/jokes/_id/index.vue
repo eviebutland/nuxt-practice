@@ -28,7 +28,6 @@ export default {
     }
     try {
       const res = await axios.get(`https://icanhazdadjoke.com/j/${this.$route.params.id}`, config )
-      console.log(res.data) // returns 404
       this.joke = res.data
     } catch (error) {
       console.log(error)

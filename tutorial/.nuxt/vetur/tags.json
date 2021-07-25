@@ -1,0 +1,11 @@
+{
+  "AppHeader": {
+    "description": "Auto imported from components/AppHeader.vue"
+  },
+  "Joke": {
+    "description": "Auto imported from components/Joke.vue"
+  },
+  "SearchJokes": {
+    "description": "Auto imported from components/SearchJokes.vue"
+  }
+}
